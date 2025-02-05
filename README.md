@@ -18,7 +18,7 @@ This app isn’t just any app — it’s your personal **chat detective**, **sen
 ### Step 1: Clone this bad boy
 
 ```bash
-[git clone https://github.com/PearlGrell/whatsapp-chat-analysis.git]
+git clone https://github.com/PearlGrell/whatsapp-chat-analysis.git
 ```
 
 ### Step 2: Grab those dependencies like it’s Black Friday 🛍️
